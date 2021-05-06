@@ -2,11 +2,15 @@
 __pycache__/
 *.py[cod]
 *$py.class
-uncommited/
-.DS_Store/
-*/.DS_Store/
-*/*/.DS_Store/
 
+# My comments
+##################
+uncommited/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
 
 # C extensions
 *.so
