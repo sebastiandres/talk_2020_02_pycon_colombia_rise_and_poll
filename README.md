@@ -5,7 +5,7 @@
 * **Fecha**: 07 febrero 2020
 * **Lugar**: Medellín, Colombia.
 * **Contexto**: ¡Mi primera PyCon!
-* Visualización**:
+* Visualización:
   * [Video](https://www.youtube.com/watch?v=ekyN9DDswBE)
   * [Slides interactivas en binder](https://mybinder.org/v2/gh/sebastiandres/talk_2020_02_pycon_colombia_rise_and_poll/main?filepath=pycon_col.ipynb)
   * [Slides semi-interactivas en html](https://sebastiandres.github.io/talk_2020_02_pycon_colombia_rise_and_poll/slides.html)
