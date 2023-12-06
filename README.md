@@ -1,7 +1,12 @@
 ## Charla
-* **Fecha**: 07 febrero 2020
 * **Título**: Presentaciones y encuestas interactivas en jupyter notebooks y RISE
-* **Resumen**: Soy un fan de jupyter notebooks y la librería RISE desde el 2015, y siempre que me toca realizar un curso o presentación con algo de código los utilizo para hacer que el código pueda tomar vida realmente. En esta charla, daré algunos consejos para sacar el máximo provecho de la combinación de jupyter notebook con RISE, y de cómo hacer las presentaciones aún más interactivas, para un curso o una charla. Además, hace algún tiempo traté de realizar una encuesta en tiempo real durante una presentación, pero no encontré en internet un tutorial o ayuda sobre cómo hacerlo. Así que me lancé a realizar algunos experimentos y encontré tres alternativas simples que me gustaría compartir (y probar) en la audiencia, y que resumen el conocimiento ganado en varios días de experimentación. En resumen: una charla para aprender a hacer charlas 100% interactivas con jupyter notebook.
-* **Lugar**: Pycon Colombia 2020. Medellín, Colombia.
+* **Evento**: Pycon Colombia 2020.
+* **Resumen**: En esta charla, di algunos consejos para sacar el máximo provecho de la combinación de jupyter notebook con RISE, y de cómo hacer las presentaciones aún más interactivas, para un curso o una charla. Además comento tres alternativas simples que me para compartir encuestas de manera interactiva.
+* **Fecha**: 07 febrero 2020
+* **Lugar**: Medellín, Colombia.
 * **Contexto**: ¡Mi primera PyCon!
-* **Visualización**: [Diversas opciones](https://htmlpreview.github.io/?https://github.com/sebastiandres/talk_2020_02_pycon_colombia_rise_and_poll/blob/main/index.html)
+* Visualización**:
+  * [Video](https://www.youtube.com/watch?v=ekyN9DDswBE)
+  * [Slides interactivas en binder](https://mybinder.org/v2/gh/sebastiandres/talk_2020_02_pycon_colombia_rise_and_poll/main?filepath=pycon_col.ipynb)
+  * [Slides semi-interactivas en html](https://sebastiandres.github.io/talk_2020_02_pycon_colombia_rise_and_poll/slides.html)
+  * [Slides no interactivas en pdf](https://github.com/sebastiandres/talk_2020_02_pycon_colombia_rise_and_poll/raw/main/slides.pdf)
